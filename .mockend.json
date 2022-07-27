@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Juan Dela Cruz",
+    "description": "FIBERX 1500",
+    "ref": "Ref#.3086755",
+    "status": "Pending",
+    "image": "../../assets/images/user-icon.png"
+  },
+  {
+    "id": "2",
+    "name": "Herminia Pitong-gatang",
+    "description": "FIBERX 2500",
+    "ref": "Ref#.3086756",
+    "status": "Returned",
+    "image": "../../assets/images/user-icon.png"
+  },
+  {
+    "id": "3",
+    "name": "Saludencia Wasiwas",
+    "description": "FIBERX 4500",
+    "ref": "Ref#.3086757",
+    "status": "Activated",
+    "image": "../../assets/images/user-icon.png"
+  }
+]
