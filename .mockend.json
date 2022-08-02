@@ -111,12 +111,12 @@
     "status": "Activated",
     "image": "../../assets/images/user-icon.png"
   },
-{
+  {
     "id": "15",
     "name": "Saludencia Wasiwas11",
     "description": "FIBERX 4500",
     "ref": "Ref#.3086757",
     "status": "Activated",
     "image": "../../assets/images/user-icon.png"
-  },
+  }
 ]
